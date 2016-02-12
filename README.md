@@ -16,21 +16,21 @@ Roles
 1. Deployers  
 2. Tech POC  
 3. Framework Developer  
+![alt text][cookbook]  
+	_____
   
 ## Jenkins
 Build Server - for each application group  
 1. Cookbook CI job  
-..1. triggered on code merge  
-..2. Integration testing  - Test Kitchen  
+* triggered on code merge  
+* Integration testing  - Test Kitchen  
 2. Cookbook Release job  
  
 ![alt text][build]  
 	_____
 
-![alt text][cookbook]  
-	_____
 
-[cookbook]: https://github.com/ContainerAideR/ContainerAideR-CI/tree/master/img/ci-cookbook-build.png?raw=true "Chef Cookbook"
-[build]: https://github.com/ContainerAideR/ContainerAideR-CI/tree/master/img/ci-cookbook-build.png?raw=true "build"
+[cookbook]: https://github.com/ContainerAideR/ContainerAideR-CI/blob/master/img/ci-cookbook-build.png?raw=true "Chef Cookbook"
+[build]: https://github.com/ContainerAideR/ContainerAideR-CI/blob/master/img/ci-app-deploy.png?raw=true "Build Server"
 
 
