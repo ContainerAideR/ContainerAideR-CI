@@ -35,10 +35,10 @@ Deploy Server
 ![alt text][build]  
 _____
 Install Jenkins
-* sudo wget -O /etc/yum.repos.d/jenkins.repo http://pkg.jenkins-ci.org/redhat/jenkins.repo
+```* sudo wget -O /etc/yum.repos.d/jenkins.repo http://pkg.jenkins-ci.org/redhat/jenkins.repo
 * sudo rpm --import https://jenkins-ci.org/redhat/jenkins-ci.org.key
 * sudo yum install jenkins  
-
+```
 
 [cookbook]: https://github.com/ContainerAideR/ContainerAideR-CI/blob/master/img/ci-cookbook-build.png?raw=true "Chef Cookbook"
 [build]: https://github.com/ContainerAideR/ContainerAideR-CI/blob/master/img/ci-app-deploy.png?raw=true "Build Server"
