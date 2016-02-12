@@ -28,7 +28,7 @@ Build Server - for each application group
 ![alt text][build]
 
 
-[cookbook]: https://github.com/ContainerAideR/ContainerAideR-CI/tree/master/img/ci-cookbook-build.png?raw=true "Cookbook process"
-[build]: https://github.com/ContainerAideR/ContainerAideR-CI/tree/master/img/ci-cookbook-build.png?raw=true "Continuous Build Server"
+[cookbook]: https://github.com/ContainerAideR/ContainerAideR-CI/tree/master/img/ci-cookbook-build.png?raw=true "cookbook"
+[build]: https://github.com/ContainerAideR/ContainerAideR-CI/tree/master/img/ci-cookbook-build.png?raw=true "build"
 
 
