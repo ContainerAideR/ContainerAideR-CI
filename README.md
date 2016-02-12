@@ -6,7 +6,7 @@ Our design goals are:
 2. Balance consistency & flexibility  
 3. Controlled cookbook promotion  
 
-## Chef 
+# Chef 
 Cookbook types  
 1. Library  
 2. Application Cookbooks  
@@ -17,9 +17,9 @@ Roles
 2. Technologist Point Of Contacts  
 3. Framework Developer  
 ![alt text][cookbook]  
-	_____  
+_____  
   
-## Jenkins
+# Jenkins
 Build Server - for each application group 
 
 Deploy Server   
