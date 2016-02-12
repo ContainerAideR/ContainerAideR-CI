@@ -17,17 +17,18 @@ Roles
 2. Tech POC  
 3. Framework Developer  
 ![alt text][cookbook]  
-	_____
+	_____  
   
 ## Jenkins
 Build Server - for each application group  
 1. Cookbook CI job  
 * triggered on code merge  
 * Integration testing  - Test Kitchen  
+
 2. Cookbook Release job  
  
 ![alt text][build]  
-	_____
+	_____  
 
 
 [cookbook]: https://github.com/ContainerAideR/ContainerAideR-CI/blob/master/img/ci-cookbook-build.png?raw=true "Chef Cookbook"
