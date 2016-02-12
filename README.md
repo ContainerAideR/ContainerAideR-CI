@@ -10,21 +10,21 @@ Our design goals are:
 Cookbook types  
 1. Library  
 2. Application Cookbooks  
-3. Data Bags  
+3. Data Bags (one per application group) 
 
 Roles  
 1. Deployers  
-2. Tech POC  
+2. Technologist Point Of Contacts  
 3. Framework Developer  
 ![alt text][cookbook]  
 	_____  
   
 ## Jenkins
-Build Server - for each application group  
+Build Server - for each application group 
+Deploy Server   
 1. Cookbook CI job  
-* triggered on code merge  
-* Integration testing  - Test Kitchen  
-
+..* triggered on code merge  
+..* Integration testing  - Test Kitchen  
 2. Cookbook Release job  
  
 ![alt text][build]  
