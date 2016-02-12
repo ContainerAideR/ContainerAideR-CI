@@ -16,7 +16,7 @@ Roles
 1. Deployers  
 2. Tech POC  
 3. Framework Developer  
-![alt text][cookbook]
+![cookbook](https://github.com/ContainerAideR/ContainerAideR-CI/tree/master/img/ci-cookbook-build.png)
 
 ## Jenkins
 Build Server - for each application group  
