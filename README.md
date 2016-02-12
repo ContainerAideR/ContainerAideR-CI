@@ -22,12 +22,15 @@ _____
 # Jenkins
 Build Server - for each application group 
 
-Deploy Server   
-
 1. Cookbook CI job  
 ..1. Triggered on code merge  
 ..2. Integration testing  - Test Kitchen  
 2. Cookbook Release job  
+
+
+Deploy Server   
+
+1. Deploy Job
  
 ![alt text][build]  
 	_____  
