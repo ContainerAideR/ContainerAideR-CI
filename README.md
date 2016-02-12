@@ -20,16 +20,17 @@ Roles
 ## Jenkins
 Build Server - for each application group  
 1. Cookbook CI job  
-	..1. triggered on code merge  
-	..2. Integration testing  - Test Kitchen  
+..1. triggered on code merge  
+..2. Integration testing  - Test Kitchen  
 2. Cookbook Release job  
  
 ![alt text][build]  
-[build]: https://github.com/ContainerAideR/ContainerAideR-CI/tree/master/img/ci-cookbook-build.png?raw=true "build"
-
 	_____
 
 ![alt text][cookbook]  
-[cookbook]: https://github.com/ContainerAideR/ContainerAideR-CI/tree/master/img/ci-cookbook-build.png?raw=true "cookbook"
+	_____
+
+[cookbook]: https://github.com/ContainerAideR/ContainerAideR-CI/tree/master/img/ci-cookbook-build.png?raw=true "Chef Cookbook"
+[build]: https://github.com/ContainerAideR/ContainerAideR-CI/tree/master/img/ci-cookbook-build.png?raw=true "build"
 
 
