@@ -21,10 +21,15 @@ Roles
   
 ## Jenkins
 Build Server - for each application group 
+
 Deploy Server   
+
 1. Cookbook CI job  
+
 ..* triggered on code merge  
+
 ..* Integration testing  - Test Kitchen  
+
 2. Cookbook Release job  
  
 ![alt text][build]  
