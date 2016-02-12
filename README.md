@@ -17,7 +17,7 @@ Roles
 2. Tech POC  
 3. Framework Developer  
   
-![alt text][cookbook]
+
 
 ## Jenkins
 Build Server - for each application group  
@@ -27,9 +27,11 @@ Build Server - for each application group
 2. Cookbook Release job  
  
 ![alt text][build]
-
-
-[cookbook]: https://github.com/ContainerAideR/ContainerAideR-CI/tree/master/img/ci-cookbook-build.png?raw=true "cookbook"
 [build]: https://github.com/ContainerAideR/ContainerAideR-CI/tree/master/img/ci-cookbook-build.png?raw=true "build"
+
+_____
+
+![alt text][cookbook]
+[cookbook]: https://github.com/ContainerAideR/ContainerAideR-CI/tree/master/img/ci-cookbook-build.png?raw=true "cookbook"
 
 
